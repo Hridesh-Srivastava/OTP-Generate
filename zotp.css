@@ -1,0 +1,48 @@
+body{
+    background: rgb(160, 7, 211);
+}
+#content{
+    margin-top: 45px;
+   margin-left:auto;
+   text-align: center;
+   margin-bottom: 20px;
+   color: aliceblue;
+   font-size: xx-large;
+   font-weight: bolder;
+}
+#clicki{
+    height:50px;
+    width: 30%;
+    font-size: larger;
+    font-weight: 300;
+    border-radius: 4%;
+    border: 5px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(227, 97, 97);
+}
+.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+h1{
+    text-align: center;
+    color: aquamarine;
+    text-decoration: underline;
+    line-height: 40px;
+}
+h2{
+    text-align: center;
+    margin-top: 120px;
+    color:rgb(187, 255, 29)
+}
+footer{
+    color: aliceblue;
+    margin-top: 300px;
+    text-align: center;
+    font-size:medium;
+    font-weight: 600;
+}
