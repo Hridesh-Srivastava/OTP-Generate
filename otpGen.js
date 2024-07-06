@@ -6,3 +6,9 @@ const res=()=>{
 };
 document.getElementById("clicki").addEventListener("click",res);
 window.addEventListener('load',res);
+document.getElementById("clicki").addEventListener('click',()=>{
+    document.getElementById("clicki").classList.add("pseudo");
+    setTimeout(()=>{
+        document.getElementById("clicki").classList.remove("pseudo");
+    },100);
+})
