@@ -30,6 +30,20 @@ document.getElementById("clicki").addEventListener('click',()=>{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // const res=()=>{
 //     let length=6;
 //     let ran=Math.random()*800000;
@@ -38,20 +52,3 @@ document.getElementById("clicki").addEventListener('click',()=>{
 // };
 // document.getElementById("clicki").addEventListener("click",res);
 // window.addEventListener('load',res);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
